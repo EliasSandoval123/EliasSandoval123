@@ -36,7 +36,7 @@ datos en insights accionables, diseñar KPIs estratégicos y automatizar reporte
 ## Certificaciones
 
 - Google Data Analytics Professional Certificate — Coursera, 2025
-- Power BI Avanzado — TELEDUC, en curso
+- Power BI Avanzado — TELEDUC, 2026
 - Excel Avanzado — TELEDUC, 2025
 
 ---
