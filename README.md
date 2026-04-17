@@ -43,9 +43,9 @@ datos en insights accionables, diseñar KPIs estratégicos y automatizar reporte
 
 ## Proyectos destacados
 
-| Proyecto | Descripción |
+| [Dashboard KPIs Capacitación](https://github.com/EliasSandoval123/dashboard-kpis-capacitacion)  | Dashboard SQL + Power BI de KPIs de capacitación OTEC |
 |----------|-------------|
-| [Próximamente](#) | Dashboards · SQL · KPIs |
+| | Dashboards · SQL · KPIs |
 
 ---
 
