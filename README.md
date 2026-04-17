@@ -47,6 +47,6 @@ datos en insights accionables, diseñar KPIs estratégicos y automatizar reporte
 |----------|-------------|
 | [Dashboard KPIs Capacitación](https://github.com/EliasSandoval123/dashboard-kpis-capacitacion) | Dashboard SQL + Power BI de KPIs de capacitación OTEC |
 | [Análisis de Ventas SQL](https://github.com/EliasSandoval123/analisis-ventas-sql) | CTEs, Window Functions y Subconsultas aplicadas a ventas |
----
+| [Análisis RRHH Completo](https://github.com/EliasSandoval123/analisis-rrhh-completo) | Rotación de personal — SQL + Python + Power BI |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasSandoval123&show_icons=true&theme=default&hide_border=true)
